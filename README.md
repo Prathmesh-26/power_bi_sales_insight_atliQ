@@ -32,9 +32,8 @@ As data source for this project, we have taken the data from database provided b
 
 ## Contact Me
 For any questions or suggestions, please contact:
-- Name: Anjitha Nair
-- Email: nairanjitha99@gmail.com
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/anjithanair12/)
+- Name: Prathmesh Parit
+- Email: prathmeshparit9815@gmail.com
 
 
 
